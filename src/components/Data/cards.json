@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "imgSrc": "images/bag.webp",
+      "altText": "red bag",
+      "heading": "Hand-Bag 1",
+      "price": "RS:1800.00",
+      "originalPrice": "RS:2000",
+      "discount": "save 10%",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores, tempore..."
+    },
+    {
+      "id": 2,
+      "imgSrc": "images/gray-bag.jpg",
+      "altText": "gray-bag",
+      "heading": "Hand-Bag 2",
+      "price": "RS:1800.00",
+      "originalPrice": "RS:2000",
+      "discount": "save 10%",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores, tempore..."
+    },
+    {
+      "id": 3,
+      "imgSrc": "images/black bag.jpg",
+      "altText": "black bag",
+      "heading": "Hand-Bag 3",
+      "price": "RS:1800.00",
+      "originalPrice": "RS:2000",
+      "discount": "save 10%",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores, tempore..."
+    },
+    {
+      "id": 4,
+      "imgSrc": "images/brown.jpg",
+      "altText": "brown bag",
+      "heading": "Hand-Bag 4",
+      "price": "RS:1800.00",
+      "originalPrice": "RS:2000",
+      "discount": "save 10%",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores, tempore..."
+    },
+    {
+      "id": 5,
+      "imgSrc": "images/dark bag.webp",
+      "altText": "red bag",
+      "heading": "Hand-Bag 5",
+      "price": "RS:1800.00",
+      "originalPrice": "RS:2000",
+      "discount": "save 10%",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores, tempore..."
+    }
+  ]
+  
